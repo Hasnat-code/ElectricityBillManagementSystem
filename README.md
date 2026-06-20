@@ -87,9 +87,7 @@ Contributions are welcome! Please fork the repository and open a pull request wi
 - If you encounter compilation errors, confirm your Java version and ensure classpaths are set correctly.
 - If the app expects a configuration file, check README or config samples in the repo.
 
-## License
 
-If you have a license, include it here (for example, MIT). If not, consider adding one.
 
 ## Contact
 
@@ -97,6 +95,3 @@ Maintainer: Hasnat-code
 
 ---
 
-Notes:
-- Update the README with exact build/run instructions after confirming whether the project uses Maven, Gradle, or neither.
-- Replace package names and main class names in the instructions to match the repository implementation.
